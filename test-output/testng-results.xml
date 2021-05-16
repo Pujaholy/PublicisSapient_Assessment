@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="191912" started-at="2021-05-15T22:50:03 IST" finished-at="2021-05-15T22:53:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="191912" started-at="2021-05-15T22:50:03 IST" finished-at="2021-05-15T22:53:15 IST">
+      <class name="com.publicis.sapient.test.DictionaryTest">
+        <test-method status="PASS" signature="isEnglishWord_Negative1()[pri:0, instance:com.publicis.sapient.test.DictionaryTest@1d07cbb]" name="isEnglishWord_Negative1" duration-ms="185828" started-at="2021-05-15T22:50:03 IST" finished-at="2021-05-15T22:53:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isEnglishWord_Negative1 -->
+        <test-method status="PASS" signature="isEnglishWord_Negative2()[pri:0, instance:com.publicis.sapient.test.DictionaryTest@1d07cbb]" name="isEnglishWord_Negative2" duration-ms="4351" started-at="2021-05-15T22:53:09 IST" finished-at="2021-05-15T22:53:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isEnglishWord_Negative2 -->
+        <test-method status="PASS" signature="isEnglishWord_Negative3()[pri:0, instance:com.publicis.sapient.test.DictionaryTest@1d07cbb]" name="isEnglishWord_Negative3" duration-ms="1158" started-at="2021-05-15T22:53:14 IST" finished-at="2021-05-15T22:53:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isEnglishWord_Negative3 -->
+        <test-method status="PASS" signature="isEnglishWord_Positive()[pri:0, instance:com.publicis.sapient.test.DictionaryTest@1d07cbb]" name="isEnglishWord_Positive" duration-ms="279" started-at="2021-05-15T22:53:15 IST" finished-at="2021-05-15T22:53:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isEnglishWord_Positive -->
+      </class> <!-- com.publicis.sapient.test.DictionaryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
